@@ -1,2 +1,2 @@
 # autopy
-Simple finite automata implementation in Python
+Simple finite deterministic automata implementation in Python
